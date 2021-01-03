@@ -1,16 +1,22 @@
-### Hi there 👋
+# Tecnico en Sistemas Microinformaticos y Redes locales
 
-<!--
-**Jesustecnoloys/Jesustecnoloys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![tarjeta Léame ] (https://github-readme-stats.vercel.app/api? user=Jesustecnoloys&how_incos=true&theme=clear)] (https://github.com/Jesustecoloys?tab=repositories)
 
-Here are some ideas to get you started:
+[![Langs princcipales](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesustecnoloys)](https://github.com/Jesustecnoloys?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías:
+
+  - Java
+  - Html
+  - CSS
+  - CSS3
+  - JavaScript
+  - Xml
+  - Xpaht
+  - Xquery
+  - Xlt
+ 
+## Acerca de mí:
+
+- ** [LinkedIn](https://www.linkedin.com/in/jesús-esteban-díez/)
+- ** [CV Web ] (https://jesustecnoloys.github.io/)
